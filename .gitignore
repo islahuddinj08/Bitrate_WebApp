@@ -1,6 +1,9 @@
+.vs/
 bin/
 obj/
 *.user
 *.suo
 *.log
-.vscode/
+*.tmp
+build/
+out/
